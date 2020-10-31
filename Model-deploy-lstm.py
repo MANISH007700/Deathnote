@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 import streamlit as st
 import pickle
 import time
-import emoji
+
 import base64
 
 
