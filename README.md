@@ -5,6 +5,8 @@
 ## Made a LSTM word-prediction model on Deathnote Anime and it turned out pretty good !
 ![Deathnote](deathnote-deploy.png)
 
+## Web app url = https://deathnote-word-prediction.herokuapp.com/
+
 ### Files : 
 #### 1 - Model-deploy-lstm.py - Code for the design and deploy of LSTM model
 #### 2 - lstm-word-prediction.ipynb - IPYNB file for the training of LSTM model using the data
