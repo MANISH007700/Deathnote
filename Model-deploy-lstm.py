@@ -4,9 +4,6 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import tensorflow as tf
 import string
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 
 from tensorflow.keras.models import  Sequential
 from tensorflow.keras.preprocessing.text import Tokenizer
@@ -18,10 +15,6 @@ import warnings
 warnings.filterwarnings('ignore')
 
 import streamlit as st
-import pandas as pd 
-import numpy as np
-import seaborn as sb 
-import matplotlib.pyplot as plt 
 import pickle
 import time
 import emoji
