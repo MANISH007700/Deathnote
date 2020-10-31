@@ -26,4 +26,5 @@
 ![Streamlit](streamlit.png = 10x10)
 ![NLP](nlp.jpg= 10x10)
 
+<img src="tf.png" width="48">
 ### *If you liked this project , do give a star :)
