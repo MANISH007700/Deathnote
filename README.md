@@ -20,10 +20,10 @@
 #### 3 - Run - Streamlit run model-deploy-lstm.py
 
 ### Framework and Tools : 
-![Tensorflow](tf.png)
-![Python](python.png)
-![Heroku](heroku.jpg)
-![Streamlit](streamlit.png)
-![NLP](nlp.jpg)
+![Tensorflow](tf.png =10*10)
+![Python](python.png = 10*10)
+![Heroku](heroku.jpg = 10*10)
+![Streamlit](streamlit.png = 10*10)
+![NLP](nlp.jpg= 10*10)
 
 ### If you liked this project , do give a star :)
